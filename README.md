@@ -1,4 +1,4 @@
-# *Hi there 👋🏻, I'm Ionichi*
+# *Hi there 👋🏻, I'm AkatsukiYori*
 
 ## About Me
 - 🌍 I'm based in Indonesia
