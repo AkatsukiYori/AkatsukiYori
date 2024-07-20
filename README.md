@@ -7,7 +7,7 @@
 
 ## My GitHub Stats
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AkatsukiYori&theme=transparent&show_icons=true&hide=&count_private=true&title_color=58A6FF&text_color=BBBBBB&icon_color=4C8EDA&hide_border=false&show_icons=true)](https://github.com/AkatsukiYori/AkatsukiYori) &nbsp;&nbsp;
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkatsukiYori&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AkatsukiYori&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
